@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source_file": "ocr_results.json",
+    "high_confidence_threshold": 0.9,
+    "total_pages": 20,
+    "avg_confidence_all": 0.934
+  },
+  "routing": {
+    "vlms_detect": {
+      "count": 20,
+      "percentage": 100.0,
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "vlms_supervisor": {
+      "count": 0,
+      "percentage": 0.0,
+      "pages": []
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "file": "test2.pdf",
+  "dpi": 200,
+  "pages": [
+    {
+      "page_number": 1,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_001.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 2,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_002.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 3,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_003.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 4,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_004.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 5,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_005.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 6,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_006.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 7,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_007.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 8,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_008.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 9,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_009.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 10,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_010.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 11,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_011.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 12,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_012.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 13,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_013.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 14,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_014.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 15,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_015.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 16,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_016.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 17,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_017.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 18,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_018.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 19,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_019.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    },
+    {
+      "page_number": 20,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step2_preprocess\\page_020.png",
+      "width": 2339,
+      "height": 1654,
+      "meta_rotation": 270,
+      "applied_rotation": 90,
+      "final_rotation": 0
+    }
+  ]
+}

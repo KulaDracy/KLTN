@@ -1,0 +1,922 @@
+{
+  "metadata": {
+    "total_pages": 20,
+    "vip_pages": 19,
+    "normal_pages": 1,
+    "confidence_threshold": 0.7,
+    "generated_at": "2026-01-01 23:14:18"
+  },
+  "pages": {
+    "page_1": {
+      "page_number": 1,
+      "queue_type": "VIP",
+      "priority": 438,
+      "content": "\n[TEXT CONTENT]\nCONG TY C PHAN CTCBIO VIT NAM\nMau s6 B.01 : DN7HN :\nBANG CAN DOI KE TOAN HOP NHAT\nTai ngay 31 thäng 03 nam 2025.\nDon vi tinh. öng Yiet Nam.\nTAI SAN\ns6\nThuyét\nminh :\nTai ngay 31/03/2025: Tai ngay 01/01/2025.\nA: TAISAN NGAN HAN\n100\n614,921:705,666\n546,869,250,355\nI. Tien va cac khoan trong duong tien\n110\n116,733;376,376\n1. Tien\n111:\nV.1\n52;733,376,376\n40,741,974,158\n91,741;974,158\n:2: Cac khoan tuong duong tien\n.112\n64,000,000,000:\n51,000,000,000\nII. : Cac klroan dau tur tai chinh ngan han.\n187;500,000,000\n1. Chüng khoan kinh doanh\n120\n121\nv.2\n208,500,000;000\n2. Durphng giám giá chúng khoán kinh doanh\n122.:\n3.: áu tu nám gi áén ngay dáo han\n123\n187;500,000,000:\n208,500,000,000\nII Cac khoan phai thu ngan han\n: 130\n1 Phat thungan han cuakhách hang\n131\nV:3. :\n209,585,215,075\n101,818,458,531\n: 103,388,526,632\n96,096,636,616\n2. Tra truöc chö ngui bán ngan han\n132\nv.4\n14,894,892;608.:\n4;940,963;670\n3. Phai thu ni b ngan han\n:133\n4. Phai thutheó tién d ké hoach hop dngæay dung 134\nS. Phai thu ve cho vay ngan han.\n.135.\n84,620,019;366:\n6. Phat thu ngan han khac.\n136\nV.5a\n8,251;844,570\n2,350,926,34\n: 8.: Tai sán thiéu ch xur ly\n7. Du phöng phai thu ngan han khó di\n.137\n:\n139\n:\nIY: Hang tn kho\n140:\nV.6\n100,085,309,661\n142,521,214,310:\n1. Hangtönkhö\n141\n100,085,309,661\n142;521,214,310:\n2. D phng giám giáhang tn kho\n149:\nY. Tai san ngan han khac\n150 :\n:1,017;804,554:\n717,535,255:\n1 Chi phf tra truöé ngan han\n151\nV.10a\n697,606,705:\n621,185,656 :\n2. Thué GTGT dugckhau tru\n152\n3. Thué va cac khoan khac phai thu Nha nuóc\n4. Giao dich mua ban lai tri phiéu Chinh pha\n154\n153\nV.14b:\n320,197,849\n96,349,599\n5. Tai san hgän han khac\n155\nCONG TYI\nDigitally signed by CNG TY C\nDN: c=VN, st=TP HÓ Chf Minh,\nCO PHAN\nCao, Phung Táng Nhon Phú A,\n=L 15-3a, 3b Khu Cöng Nghé\nMinh, o=CONG TY CÖ PHAN\nCTCBIO\nCTCBIO VIET NAM, cn=CONG TY\n0.9.2342.19200300:100.1.1=MST:0\nVIET NAM\n305309836,\nemail=trang.fa@ctcbio.com.vn\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 888,
+        "number_count": 508,
+        "text_blocks": 115,
+        "table_count": 0,
+        "processing_time_sec": 13.348
+      },
+      "confidence": {
+        "average": 0.9371,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CỔ PHẦN CTCBIO VIT NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ":",
+          "confidence": 0.531,
+          "bbox": [
+            1240,
+            1170,
+            1272,
+            1211
+          ]
+        }
+      ]
+    },
+    "page_2": {
+      "page_number": 2,
+      "queue_type": "VIP",
+      "priority": 481,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nMau s6 B 01 - DN/HN\nBANG CAN DOIKE TOAN HOP NHAT\nTai ngáy 31 tháng 03 nam 2025.\nDon v tinht óng viet Nai...\nTAI SAN\nMa.\ns6 :\nThuyét.\nminh\nTai ngay 31/03/2025\nTai ngay 01/01/2025\nB. TAISAN DAIHAN\n200\n99,730,819,541:\n239;669,021,573\nI. Cac khoan phai thu dai han.\n1. Phai thu dai han cua khach hang\n210 .\n5,430,725,000\n8,807;185,000\n2. Tratruó cho ngui bán dai han\n: 211\n3. Vön kinh doanh don vi truc thuc\n:213\n212\n:\n:\n4. Phai thu ni b dai han\n: 214\n.::\ns. Phai thu v cho vay dai han\n: 215.\n6. - Phai thu dai han khác.\n216\n:V:5b\n5,430,725,000\n8,807,185,000:\n7. . Du phngphái.thu dai han khó di\n219\nII. Tai san co dinh.\n220\n54,905,507,505\n57,118;890,607\n1.Tal sán có dinh htu hinh\n221:\nV.7\n52,943,629,509\n55,054,512,610\n- Nguyén giá\n-Gtá tri ha mön luý ké\n222:\n103,989;830,251:\n105,726,132,546\n.2.. Tai san có dinh thué tal chinh\n223:\n224:\n(51,046;200,742)\n(50,671,619,936)\n-Nguyên giá\n225:\n330\n.- Giá tri haomn luý ké\n226\n:.\nCONG\n3. Tal san có dinh v hinh\n227:\nV.8:\n:1,961,877,996:\n2,064,377,997 6 P1\n- Nguyen gia\n: 228\n.2,474,378,001\n2474,378,001 ETC\nGia tri hao mn luy ké\n:229\n(512,500,005):\nIII. Bát áng sán dáu tur\n230\nLANIE\n-Giátr haomn luyké\n. .Nguyen gia\n231\n232\nIV. Tai san d dang dar han\n240\n21,530,717,851\n:112,033;766;270\n2: Chi phí xáy dung co bán d dang\nI. Chi pht san xuát, kinh doanh dö dang dai han\n241:\n:J:\n: :\n242:\nv.9\n21,530,717,851\n: 112,033;766,270\nV. - Cac khoan dau tu tai chinh dai han.\n250\nv.2\n:\n11;596,628,400\n1. Dau tu vaó congty con\n2. áu tu vao cöng ty lien doanh, lién két\n:251\n3.. au tu göp vón vao don vi khác\n252:\n253\n11,596,628,400\n4. Du phng dáu tu tai chinh dái han\n254\n:\n5. a tur nam gi dén ngay dáo han\n255\nVI. Tal san dai han khac\n260\n: 17,863,869,185\n50,112,551,296 .\n1. Cht pht tratruóc dai han\n261.\nV:10b\n6,267,240,785\n49,879,737;612\n20.: Tal san thue thu nhap hoan lai :\n262:\nV:17\n::\n232,813,684\n3.. Thfét bi, vat thy phu tung thay thé dai han\n263\n15: Loi théthrong mai\n4. Tai san dai hankhäc\n268\n11,596,628,400\nTONG CONG TAI SAN\n269\n270\n714,652,525;207\n786,538,271,928:\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 906,
+        "number_count": 535,
+        "text_blocks": 140,
+        "table_count": 0,
+        "processing_time_sec": 21.28
+      },
+      "confidence": {
+        "average": 0.92,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ".::",
+          "confidence": 0.415,
+          "bbox": [
+            1250,
+            643,
+            1280,
+            677
+          ]
+        },
+        {
+          "text": ":.",
+          "confidence": 0.678,
+          "bbox": [
+            1243,
+            1092,
+            1275,
+            1128
+          ]
+        },
+        {
+          "text": "LANIE",
+          "confidence": 0.641,
+          "bbox": [
+            1572,
+            1264,
+            1653,
+            1328
+          ]
+        },
+        {
+          "text": ":J:",
+          "confidence": 0.441,
+          "bbox": [
+            1531,
+            1474,
+            1551,
+            1506
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.518,
+          "bbox": [
+            1236,
+            1708,
+            1265,
+            1745
+          ]
+        }
+      ]
+    },
+    "page_3": {
+      "page_number": 3,
+      "queue_type": "VIP",
+      "priority": 342,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nMau s6B 01 DN/HN\nBANG CAN DOIKE TOAN HOP NHAT\nTai ngay 31 thang 03 nani: 2025\non v ttnht Döng Viet Nam\nNGUON VON.\nTai ngay 31/03/2025 : Tai ngay 01/01/2025\nminh\nC. NOPHAITRA\n300\n96,465,457,436\n175,376,945,693\nI. Nangan han .\n310 :\n96,4655457;436:\n1. Phái trá chö ngui bán ngán han\n311\nV.12\n45,655;381;710:\n127;850,073,413\n89,423,743,288\n2. :Ngui mua trátién truróc ngan han\n.312\nY:13\n:1;907,007,062 :\n3,272,504,818:\n3. Thué va các khoan phai np Nha nuó\n313\nv.i4a:\n3,262,336,869:\n3,132,471;890\n4. Pha trá ngui la döng\n:314\n4,012,704,691\n6,049;591;000\n5, Chi phi phar tra ngan han\n315\nV.15\n41,337,409.\n2,995,434,651\n6. Phai trá ni bó ngán han\n316\n7i Phai tra theo tién á ké hoachhop döngæáy dung. :17\n:\n9.. Phai trangan han khac.\n... Doanh thu chua thuc hién ngan han\n318\n10. Vay váng thue tai chính ngan han\n320\n319\nV.11a\nv.16\n17,916,075,675\n23,670,614,020\n22,976;327;766\n11, ú phng phai trá ngán han\n321\n::\n12 Quy khen thung, phú lgi\n322 :\n13v Quy binh n giá\n323\n1..1\n:1:\n14. Giáo. dch mua bán lai trai htéu Chinh ph\n324\nII.. No dai han.\n:330\n1: Phai trá ngui bán dai han\n331\n1\n10\n2: Ngui mua trátién truóc dai han\n332\n: IAM\n3. Chi phf phai tra dai han\n333\n4. Phat trá ni b v vón kinh doanh\n:334.\n:\n6. . Doanh thu chua thuc hien dai han\n5.. Phai trani b dai han\n335:\n7.: Phai tra dai hankhác\n336\n337:\n8: Yay va ng thué tai chinh dai han\n338: V.11b\n47,526,872,280\n: Trái phié chuyén ár\n339:\n10. c phté uu dai\n340:\n11, Thué thu nhap hoan.lal phai trá\n:341\n:\n12: Du phong phai tra dai han\n13, Quy phát trién khoa höc va ng nghe\n342\n.::\n343\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 773,
+        "number_count": 360,
+        "text_blocks": 101,
+        "table_count": 0,
+        "processing_time_sec": 16.167
+      },
+      "confidence": {
+        "average": 0.9134,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ":1:",
+          "confidence": 0.503,
+          "bbox": [
+            1531,
+            1050,
+            1560,
+            1094
+          ]
+        },
+        {
+          "text": "1..1",
+          "confidence": 0.548,
+          "bbox": [
+            1245,
+            1087,
+            1272,
+            1128
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.422,
+          "bbox": [
+            1245,
+            1201,
+            1268,
+            1230
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.527,
+          "bbox": [
+            1245,
+            1377,
+            1268,
+            1408
+          ]
+        },
+        {
+          "text": ".::",
+          "confidence": 0.668,
+          "bbox": [
+            1521,
+            1727,
+            1553,
+            1762
+          ]
+        }
+      ]
+    },
+    "page_4": {
+      "page_number": 4,
+      "queue_type": "VIP",
+      "priority": 306,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO RHAN CTCBIO VIET NAM\nMau s B 01 -DN/HN\nBANG CAN DOIKE TOAN HOP NHAT\nTai ngáy 31 thäng 03 nam 2025\non vi tinh ng Viét Nam\nNGUON YON\nMa Thuyét\niminh\nTai ngay 01/01/2025\ns6.\nTai ngay 31/03/2025\nD. VONCHSHUU\n400.\n618,187,067;771\n611,161,326,235\nI: Yónchusohúu\n410\nV:18\n618,187,067;771\n611;161,326,235:\n1. Vón góp cuachús húu\n- C phiéu ph thng cö quyén biu quyét\n411\n120,000,000,000:\n:120,000,000,000:\n-- C phiéu uu dai\n4iia\n120,000,000,000:\n120,000,000,000\n2. Thang dur vön có phan\n411b.\n412.\n3. Quyén chon chuyén di trái phiéu\n413\n2,768,022:\n2,768,022:\n4. Vón khác cuachus huu\n414\n:\n5,. C phiéu quy\n415\n:\n6. Chenh lech danh gta lai tai san\n416\n.7. Chénh 18ch ty gla hói doai\n:417\n8. Quy áu tu phat trin\n.418\n:\nSr: Quy h tro sáp xép doanh nghiep.\n.419\n::\n11. Loi nhuan sau thué chuá phan phói\n10.. Quy khác thuc vón chú s húu\n420\n421:\n-LNST Chua phan phói lyké dén cuói ky truó. 421a\n498,184;299,749\n490,778,971,551\n490,778,971;551\n- LNST chua phan phói ky nay\n421b\n7,405,328,198\n455,706,986,208\n35,071,985,343:\n12. Ngun vón dau tu XDCB\n422\n13. Lqi ich có áng khöng kiém soát\n429\n379,586,662:\nII. Ngun kinh phf, quy khác\n430\nI. Ngun kinh phi.\n431\n2: Ngun kinh phí dá hinh thanh TSC\n432:\nTONG CONG NGUON VON\n:440\n8,271,928:\n714,652,525;207\nTp H Chi Minh ngay tháng, nám.\nNguri láp biu\nBhttong Giam dóc.\nCONG TY\nCO PHAN\nCTCBIO\nVIET NAM\nNg Th Trúc Lan.\nD Phan Hong An\nim Won Bo\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 700,
+        "number_count": 322,
+        "text_blocks": 90,
+        "table_count": 0,
+        "processing_time_sec": 22.741
+      },
+      "confidence": {
+        "average": 0.9209,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO RHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "s6.",
+          "confidence": 0.624,
+          "bbox": [
+            857,
+            353,
+            903,
+            395
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.697,
+          "bbox": [
+            1538,
+            845,
+            1570,
+            880
+          ]
+        }
+      ]
+    },
+    "page_5": {
+      "page_number": 5,
+      "queue_type": "VIP",
+      "priority": 489,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nMau s6 B 02. : DN/HN\nBAO CAO KET QUA HOAT DONG KINH DOANH HOP NHAT\nTal ngay 31 thang 03 nam 2025.\nDon'v tinh. öng Viet Nam\nMa\nThuyét :\nCHITIEU :\n$6:\n: mink\n31/03/2025:\n:Tai ngay\n31/03/2024\n. Tai ngay\n2. Cac khöan giam tr doanh thu\nI: Doanh thuban hang va cung cap dich vu\n01 :\nVI.1\n170,029,230,328\n: 160,467,532,679\n3. Doanh thu thuan vê bán hang va cung cáp dich v\n02\nVI.2\n318,450,149\n859,337,743:\n4. Gia vón hang ban.\n10\ni1\nVI.3\n136,263,800,463:\n169,710,780,179\n159,608,194,936\n5. Loi nhuan gp ve ban hang va cung cap dich vu\n: 20\n126,671;978,054\n(20=10 -11)\n33,446,979,716\n32,936,216,882:\n6. Doanh thu hoat áng tai chinh\n.21\n.VI.4:\n1,698,208,957\n'7. Chi phi tai chinh\n22:\nVI.5:\n351,313,950\n2,466;829;293:\n537,025;160:\n. Trong do: Chi phi lai vay\n23\n210,254,930 :\n57;585,411\n8.: Phán lat hoác (i) trong cóng ty liên doanh, lien két\n: 24\n9r Chi phi bän hang\n25\nVI.6\n20,464,166,037\n20,900,563;640:\n10. Chi phi quan ly doanh nghiép\n26\nVI.7\n5,823,239,319:\n5;182,608,983\n11. Lgi nhuan thuan tir hoat dng kinh doanh\n:30\n8,506,469,367\n8,782,848;392:\n(30=20+(2122)+24 - (25+26))\n12., Thu nhap khac.\n31\nVI.8:\n9;849,462\n91,119\n13. Chi phi khac\n32:\nYI.9:\n39,555,522\n416,868,326\n14. Lgi nhuan khac (40 =31 -32).\n40\n(29,706,060)\n.(416,777;207)\n15: Tng loi nluan k toán truc thué\n50\n8,476,763,307:\n8,366,071,185\n(50 = 30+ 40)\n16.: Chi pht thué TNDNhien hanh.\n51\nVI.11:\n1,094;716,493\n418;303,559.\n17. Chi phi thué TNDN hoan Iai\n52:\nVI:12\n(23,281,384)\n18. Loi nhuan sau thué thu nhap doanh nghiep\n(60=50-51-52)\n60\n7,405,328,198:\n7,947;767,626:\n19. Li nhúan sau thué cua cóng ty me\n20 Li nhuan sau thué cua cö dóng khng kiém soát.\n:61\n62\n7,405,328,198\n7,947767;626:\n21. Li co bán tren c phiéu\nV1:13.\n22. Lai suy giam trn cphién\n70 :\n71\n:VL14\nTp Hó ChiMinh,ngy : tháng. nant.\nNgui lap biéu\nPharang Giam dóc.\nCONG TY\n06 PHAN\nVIET NAM\nCTCBI9X\nNg Thi Trúc Lan\nD Phan Hóng An\n01r Bo\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 810,
+        "number_count": 532,
+        "text_blocks": 124,
+        "table_count": 0,
+        "processing_time_sec": 15.693
+      },
+      "confidence": {
+        "average": 0.934,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "31/03/2024"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "$6:",
+          "confidence": 0.548,
+          "bbox": [
+            881,
+            380,
+            928,
+            426
+          ]
+        }
+      ]
+    },
+    "page_6": {
+      "page_number": 6,
+      "queue_type": "VIP",
+      "priority": 394,
+      "content": "\n[TEXT CONTENT]\n: CONG TY CO PHAN CTCBIO VIDT NAM\nMau:s6 B 03DN/HN\nBAO CAO LUU CHUYEN TIEN TE HOP NHAT\n(Theo phuongpháp gián tiép)\nén ngay 31 tháng 03'nám 2025:\nDon vi tinh Döng Viet Nam\nCHITIEU\nMa s6\nThuyét:\nTai ngay.\nTai ngay:\nminh.\n31/03/2025\n01/01/2025:\nI: LUU CHUYEN TIEN TU HOAT DONG KINHDOANH\n1: Lqi nhuan truc thué\n2. iu chinh cha cac khoan\n.01\n8,476,763,307.\n36;807;443,195:\n- kháu haó tai san có dinh va bat döng san dáu tu\n022*\nV:7;V.8:\n2;213,383;102:\n.-. Cac khoan du phong\n03\n9,309,644,583:\n10,025,516:\n-. Lai, l chenh léch ty gia hói doái do dánh giá lai các\nkhoán mus tlen te có góc ngoai te.\n04\n:77,028,203\n-- Lai, I tö hoat dng daú tur\n05\n(1,933,024,462):\n(14,053,128,942)\n.. Chi phf lai vay\n06\nVI.5:\n: 210,254,930\n881,563,430:\n3: Loi nluan tur hóat dng kinl doanh truóc thay ái vón\nCac khoan áieu chinh khác\n07.\n08.\nIuu döng\n:.8,967;376,877\n33,032,575,985:\n- Tang(, glam (+) caa khoan phai thu\n09\n(5;134,158,177)\n(17;149,823,956)\n-.Tang (, giam (+) hang tn kho\n:10\n42,435,904,649.\n(25,226,362,883))\nTáng (giam các khoán phai trá (khng k lai vay\n.11\nphai trá, thué thu nhap phái np\n(48,109,407;851)\n42,344,281,427\n-: Tángs gtám (+) chúngkhoán kinh doanh\n- Tang (: giam (+) chi phi tra truóc\n12\n5,423,807\n(41,082,861,511)\n- Tien lai vay da tra .\n13.\n14:\n(1,988,684;874)\n(210,254,930)\n- Thué thu nhap doanh nghiép danp\n15.\n(881,563,430))\ns-Tin thu khá ti hoat dng kinh dóanh\n16:\n- Tién chi khác turhoat dng kinh doanh\n17\n.c6 PI\nLuu chuyn tien thuan tur hoat dng kinh doanh\n: 20 :\n(4,033,800,499)\n(14,400X\n5ET\nCTCE\nII. LUU CHUYEN TIEN TU HOAT DQNG DAU TU\n1. Tien chi dé mua sám, xay dung TSC va các TSDH khác\nVit P1\n2: Tién thu tir thanh ly, nhuang bán TSC vá cac TSDH khác\n21\n22\n(2,614,224,550):\n(108,664,914;867)\n720,000,000\n3: Tin chi cho vay, mua các cöng cu n cua don v khac\n23\n(441,467,824,896)\n4. Tien thu hi cho vay, bán lai các cöng cu ng úa don vi khá.\n24\n547,967;824;896\n5. Tién chi da tur góp vón vao don v khá\n.25\n6. Tién thu hi dau tu göp vón vao dön vi khac\n26:\n7. Tien thutur lai ch yay, cö túc va lgi nhuan duoc chia\n27\n13,385,259,028.\nLuru chuyén tin thuan turhoat dng dan tur\n30\n(2,614;224,550)\n: 11,940,344;161\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 1082,
+        "number_count": 427,
+        "text_blocks": 111,
+        "table_count": 0,
+        "processing_time_sec": 17.914
+      },
+      "confidence": {
+        "average": 0.9286,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": ": CÔNG TY CO PHAN CTCBIO VIDT NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ".11",
+          "confidence": 0.662,
+          "bbox": [
+            906,
+            1145,
+            957,
+            1189
+          ]
+        },
+        {
+          "text": ".c6 PI",
+          "confidence": 0.674,
+          "bbox": [
+            1573,
+            1425,
+            1653,
+            1459
+          ]
+        },
+        {
+          "text": "Vit P1",
+          "confidence": 0.694,
+          "bbox": [
+            1592,
+            1579,
+            1653,
+            1608
+          ]
+        }
+      ]
+    },
+    "page_7": {
+      "page_number": 7,
+      "queue_type": "VIP",
+      "priority": 194,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO YIET NAM\nBAO CAO LUU CHUYEN TIEN TE HOP NHAT\nMaus B 03-DN/HN\n(Theö phuong phap gian tiép)\nDén ngay 31 thang 03 nam 2025\nDon vi tinh. Döng Viet Nam\nCHITIEU\nMa s6: Thuyet\n..Tai ngay :\nTai ngay\n\"minl.\n:31/03/2025.\n01/01/2025:\nIII. LUU CHUYEN TIEN TU HOAT DONG TAI CHINH\n1. Tin thu tú phát hanh c phiéu, nhan vón göp cúa CSH\n31\n:400;000,000\n2r Tien tra lai vön göp cho cá chú s hau, mua lai có phiéu\ncua doanh nghiep da phat hanh .\n32\n4. Tin tra nd góc vay\n3. Tin thu tu di vay.\n33\nVII.1\n31,639,427;267\n115,837,337,940\n5. Tien tra ng góc thue tai chinh\n34\nVII.2\n(76,705,407,675)\n6. có túc, 1gi nhuán da tra cho chú s höu\n:35.\n36\n(10,888,007,079)\nLuu chuyén tin thuan tur hoat áng tai chinl\n40\n31;639,427,267\n: 28,643,923,186:\nLuu cliuyén tin thuan trongly (50 =20+ 30+40)\n50\n24;991,402,218\n26,183,552;789\nTin va tuong duong tin dáu nám\n91;741;974,158\n65,534,436,905:\nAnh húöng cúa thay ái ty giá hói doái quy ai ngoai te\n61:\nTrn ya tuong duong tin cuói nani (70 -50860+61)\n23,984,464:\n70\nv.1\n116,733,376,376 .\n91;741,974;158\nTp H Cht Minh ngay tháng, nám\nNguri lap biéu\nKe toan trubng.\nPh6Tong Giam dóc\nCONG TY\nCTCBIO\nCOPHAN\nVIE'T NAM\nNg Thi Trúc Lan\nD Phan Hong An\nn Won Bo\n10\nAM\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 664,
+        "number_count": 228,
+        "text_blocks": 66,
+        "table_count": 0,
+        "processing_time_sec": 19.9
+      },
+      "confidence": {
+        "average": 0.9327,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      }
+    },
+    "page_8": {
+      "page_number": 8,
+      "queue_type": "VIP",
+      "priority": 40,
+      "content": "\n[TEXT CONTENT]\nL I5 3a, 3b Khu Cong Nghe Cao,P.TangNhon Phu A,TPL ThuDuc TPHCM\nCONG TY CO PHAN CTCBIO VIET NAM :\nTHUYETMINH BAO CAO TAICHINH HQP NHAT\n1.\n: DAC DIEM HOAT DONG CUA DOANH NGHIEP\nHINHTHUC SO HUUVON\n11\nCong ty CO phan CTCBIO Viet Nam, tien than la Cong ty TNHH CTCBIO Viet Nam duoc thanh lap theo Luat doanh\nnghip Viet Namn va hoatdng the Giáy chúng nhan dau nr lan dau só 413022000013 ngay 02 tháng 11 nam 2007 dö\nthay di só:413032000013 ngay 16 tháng 11 nám 2014.\nthu 8 do S& Ké hoach vaDau tu TP.HCM cap ngay 09 thang 3 nam 2021.\nTr s hinhi: L I5-3a, 3b Khu cóng ngh cao, hung Tang Nhon Phú A, TP. Thi úr; TP:HCM.\nVán phng giao djch tai B1-18 Hung Thái, Phú My Hung, Phung Tan Phong, Quan 7, TP.HCM.\nVan phöng dai dién tai thúa úát só 172, t ban d só 20 tai thn Binh Dan, a Tan Dan, Huyén Khoái Cháu, Hung\nYen.\nLINIVUC KINH DOANH\n12\nLinh vuc kinh doanh cua Cong ty la san xuát va thuong mai.\n1.3:\nNGANH NGHE KINH DOANH :\nHoat áng sán xuát kinh doanh cúa öng ty thé Giáy chtng nhán áng ký doanh nghip bao gin: Chán nui gia\n.suc, gia cam; San xuát, kinh doanh va xuat nhap kháu thuóc thú y, thuóc thú y thuy san, cac san pham len men, ché!\nthuy san, thúc an bó sung thuy san (men tieu ha, các san phám nam men, chiétxuát tu thanh té bao nám men, enzym,\nphám sinh hoe, men vi sinh, vi sinh vat, các san pham có ngun góc vi sinh vat, các hóa chat dng trong thú y, thú y\nvitamin cá loai, các loai khoáng húu co, khoáng v co da luong va vi lugng, các loai axit htu co, các löai axit.\nanin...), hóa chátæur lý, cái tá mói trung dung trong nui trng thúy sán Sánæuát thúc án b sung, nguyén liu sán\nxuát thúc an dung trong nui trng thúy san; Sán xuát thuc thú y thúy sán các loai: Sán æuát cac löai dugc liéu, San\nxuát, kinh doanh va xuát nhap kháu các loai thuc phám chúc nang bö dung, Xuát nháp kháu cáa sán phám thú y\nthúy sán Bán bun thit va các san phám tir thit; Bán bun tröng va các sán phám tu trú'ng\n1.4\n: CHU KY SAN XUAT, KINH DOANH THONG THUONG\nHoat döng kinh doanh chú yéu cua Cng ty lá sán xuat va kinh doanh thuöc thúy, bó sung thú án chan nui va san\nphám trúng ga tui. Theó dó, chu ky san xuát kinh doanh cúa Cóngty langan ngay va quay vng thungxuyén, lien\n: 1.5. DACDIEM HOAT DONG CUA DOANH NGHIEP TRONG KY CO ANH HUONG DEN BAO CAOTAI CHINH\ntu nhieu lan trong tháng. :\nLinh vua kinh doanh chính cua Cöng ty la san xuát kinh doanh thuóc thú y, b sung thúc an chan nui va sán phám\nIuong khách hang. ngoai ra các chinh sách chuongtrinh khuyén mai vé giá, chinh sách giá va yic thuc hien tiét kiein.\n1.6\nCAU TRUCDOANH NGHIEP\nCóng ty có 01 cng ty con, khöng c chi nhánh vá don vi phu thuöc.\nKY KE TOAN, DON VI TIEN TE SU DUNG TRONG KE TOAN\n2.1.\nBáo ca tai chinh dugc lap cha giai doan hoat döng tu 01/01/2025 dén 31/03/2025:\nKY KE TOAN\n2:2 :\n: DON VITIEN TE SU DUNG TRONG KETOAN:\non v tién tö sur dung trong ké toán: ng Viet Nam (VND).\nCHUAN MUCYA CHE DO KE TOAN APDUNG\nCng ty áp dung Chê á Ké toán doanh nghip ban hanh theo Thng tir 200/2014/TT-BTC ngay 22/12/2014 cúá B\nTai chinh hung dan Ché do ké toán doanh nghiep. (Thöng tur 200\").\n:5\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 2177,
+        "number_count": 117,
+        "text_blocks": 51,
+        "table_count": 0,
+        "processing_time_sec": 26.921
+      },
+      "confidence": {
+        "average": 0.9319,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM :",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ":5",
+          "confidence": 0.614,
+          "bbox": [
+            1531,
+            2244,
+            1563,
+            2283
+          ]
+        }
+      ]
+    },
+    "page_9": {
+      "page_number": 9,
+      "queue_type": "NORMAL",
+      "priority": 0,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nL6 I5 3a, 3b Khu C6ng Nghé Cao,PTangNhon PhuA, TR.ThuDuc , TP.HCM\nTHIUYET MINH BAO CAOTAL CHINH HQP NHAT\nCAC CHINH SACH KE TOAN CHU YEU\n4.1\nCO SO LAP BAO CAO TAI CHINH.\nSau day Ia nhting chinh sách ké töán quan tröng Cong ty áp dung trong vi láp Báö Cáö Tai Chinh.\nVic lap Bá cá tai chinh tuan thú theo chuán mtr Ké töán Viet Nam có nhtinguó tinh vagia áinh ánh huöng dén\n. UOCTINHKE TOAN\ns liéu báö cáo.\nTIEN VA CACKHOANTUONG DUONGTIEN\nTien vá cáa khoán tuong duong tién bao gm tien tai quy, tien gui ngan hangkhngky han, tin dang chuyén, tin gui\n: CAC KHOAN PHAI THU VA D PHONG PHAI THU:\nngan hang có ky han góo khng quá 3 tháng.\n4.4.\nCác khöán phai thu dirgo tmrinh bay theo giá ti ghi s tr dr phng phat th khö di.\n4.5 . :HANGTN KHO\nHangtn kho dug æáo dnh tren co s giá tháp hon gia giá gó va giá tr thuán c thê thuc hlén durdc\n4.6. NGUYEN TAC GHI NHAN YAKHAU HAO TAI SAN CODINH:\nNha cua, vat kién trüc.\nLoaf tai san.\nThi gian kháu hao (nam)\n20-45.\nThiét bi ván phng\n05-10\nMáy moc thiét bi\n05-10\n4.7: NGUYENTAC KETOAN CHI PHITRATRUOC\nPhugng tién van tai truyén dan\n05-07\nChi pht tra traóc ngán han thi gian phan b khöng quá 12 tháng:\nChi phí trátruó dai han thi gian phan bó khöng quá 36 tháng\n4.8 NGUYEN TACKE TOAN VAY VANO PHAI TRATHUETAICHINH\nPhán ánh các klhoan tien vay, n thue tai chính va tinh hinh thanh toán các khoán tién vay, n thu tai chính.\n4:9 : NGUYENTACGHINHAN CHI PHIPHAITRA\nPhai trá ngui bán phán ánh các khoan phai trá mang tinh chát thuongmai phát sinh ti gia dich mua hang hóa, dich\nvu, tai san vangui bán ladon v dc lap vói Cng ty\n4.10 NGUYENTACGHINHAN VON CHUSOHO'U\nVón dau tu chú s htú duge ghi nhan theo só vón thu göp cua chú sö htu va foi nhuan sau thué.\n4.11 NGUYEN TACVA PHUONG PHAP GHINHAN DOANH THU:\nDoanh thu bän hang.\nDoanh thu dugc xác dinh khi Cong ty có khá nang nhan dugé các lgi ich kinh tê. Doanh thu thuan duge xác dinh theo\nhang ban bi tra lai.\nDoanh thu hoat dóng tat chinh\nLai tu cackhoan dau tu..\n:4.12: : NGOAITE\ntién t có göc ngoal tê dure qui di thé ty giá tai ngay nay lap báo áo tai chinh\nNgan hang Ira chon ty gia dê áp dung trong k toán la Ngan hang TMCP Ngoai thuong Viet Nam, Ngan hang A Cha\nva Ngan hang TNHH Shinhan Viet Nam.\n4.13 NGUYEN TAC KE TOAN THUE YA CACKHOAN PHAI NOP NHA NUOC\nHoat dng san xuát dugc uu dai thué thu nháp döanh nghiep vi thu suát 10% trong 15 nám kê tr kht du án bát da\nkinh doanh va mién thué thu nhap doanh nghiep 4 nam ké tr khi có lai, giam 50% thué thu nhap doanh nghtep cho\nnam tiép the:\n6.\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 1875,
+        "number_count": 60,
+        "text_blocks": 54,
+        "table_count": 0,
+        "processing_time_sec": 26.881
+      },
+      "confidence": {
+        "average": 0.9318,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {},
+        "currency": "VND",
+        "sections": []
+      }
+    },
+    "page_10": {
+      "page_number": 10,
+      "queue_type": "VIP",
+      "priority": 467,
+      "content": "\n[TEXT CONTENT]\nL6 I5 -3a, 3b: Khu C6ng Nghe Cao,P.TangNhon PhuA, Tp Thu Durc , TP.HCM\nCONG TY CO PHAN CTCBIO VIET NAM\nTHUYET MINH BAO CAO TAI CHINH\n5 TIENYACACKHOAN TUONGDUONG TIEN\nTai 01/01/2025:\nTai 31/03/2025\nVND\nVND\n.-Tien mat :\n- Tien gui ngan hang .\n39,807:125,105:\n886,617,948:\n673,977,640\n- Cackhoan tuong duang tien ()\n51,000,000,000:\n51,924,641;933:\n64;000,600,0001\nTotal\n91,693,743,053\n116,598,619,573\n() a cá thöán tiên gitt có hangóc durói 3 tháng tai cá Ngán hang throng mai:\n6: CACKHOAN DAUTU'TAI CHINH:\nTal 01/01/2025:\nVND:\nTai:31/03/2025\nThn git c ky lran ()\nVND:\n-Ngan hang Vietcombank.\nNgan. han\n208,500,000,000:\n187;500,000;000:\n-Ngan hang ACB\n120,000,000,000\n37,000,000,000:\n: 37,000,000,000:\n99,000,000,000:\n.- Ngan hang Shinhan Viet Nam .\n28,500,000,000\n28,500,000,000:\n- Ngan hang Cong Thuong\n23,000,000,000\n23,000,000,000:\n- Ngan hang Ky Thuong.\nTrai phiéu\nDai han\n:\nCong\n208,500,000,000\n187;500,000,000:\n() á cáa khoán ttén giti c l han góc trén 3 tháng tai các Ngán hang thurong imai.\n7 PHAITHUCUAKHACHHANG\nTai 01/01/2025\nVND\nTal 31/03/2025\nVND\nd): Phai thu cra khách hang ngán han\n96,096,636,616\n101,818,458,531\n- Cng ty C Phan Chan Nu8i C,P. Viét Nam\n4,926,600,000:\n6,453,037,500\n- CN COng ty TNHH Cargill Viet Nam tai Binh Dinh:\n- Cong ty TNHH Japfa Comfeed Viet Nam - Chi nhänh Binh Phu&c 3\n3,025,315,000:\n555,975,000\n2,913,606;750\n1,401,750,000\n-.Cng Ty TNHH CJ Vina Agi -Chi Nhanh Ha Nam .\n834,537,000:\n915,447;000\n- Cong. ty TNHH Peace Farm.\n-- CN Cong ty'TNHH Cargill Viet Nam tai Ha Nam\n41,366,120,640\n2,165,830,000:\n:41,366,120,640\n: 2,453,930,000\n: YIN YIN KYAW INTERNATIONAL TRADING CO.,LTD.\n1,912,034,783\n3,286,381,253:\n..Cng ty Khác\n: CJ CHEILJEDANG CORPORATION\n41,079;714,858\n.230,509,335\n43,028,185,388:\nb) Phalthu cia klách hang dai han\nc) : Phaitlu cita kchach hang la cac ben lien quan\n:\n.-CTCBIO INC:\n8: TRATRUOCCHONGUOIBAN\nTai:01/01/2025:\nTai 31/03/2025\nGia.goc\nVND'\nDu phong.\nVND\nGia góc\nVND\nDu phng.\nVND\n-Nha cung cáp trongnuö\n.:\n2;204,779,500\n2,895,204,268.\n- Nha cung cap nuóe ngoai\nCong\n2,204,779,500\n.:.\n2,895,204,268:\n8. PHAITHUKHAC:\nTai 01/01/2025\nTal 31/03/2025\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 988,
+        "number_count": 550,
+        "text_blocks": 111,
+        "table_count": 0,
+        "processing_time_sec": 23.625
+      },
+      "confidence": {
+        "average": 0.9349,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ".:",
+          "confidence": 0.561,
+          "bbox": [
+            559,
+            1910,
+            571,
+            1927
+          ]
+        }
+      ]
+    },
+    "page_11": {
+      "page_number": 11,
+      "queue_type": "VIP",
+      "priority": 540,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nL I5-3a, 3b Khu Cong Nghe Cao,PTangNhon Phu A,Tp ThuDuc,TP.HCM\nTIUYET MINIT BAO.CAO TAICHINH\nGia tri\nDu phong.\nGia tri.\nDirphong\nNgan lan.\n:79,686,754;826\nVND\nVND.\n100,117,939,895:\nVND\nVND\n- Ky quy ky cuoc ngan han\n1;770,096,341:\n1,744,096,341\n- Tra truóc c tú.\n-- Congty c phan Petlike\n21,$93,839:\n- Phai thu lhae.\n.75,532,175,104\n2;362,889,542\n91,866,095,325:\n6,507;748,229\n. Dai han.\n8,807,185,000\n5,430,725,000\n.- Ky quy thue tai chinh\n.-Ky quy m the Master Card\n-Ky quy ky cugo dai hankhad\n630,725,000:\n: 630;725,000\n.- Ky quy dur an möi (SHTP)\n- Phai thu khac ..\n4,800,000,000\n4,800,000,000\nCong\n88,493,939,826:\n3,376,460,000\n105,548,664,895\n8: TAISANDODANGDAIHAN.\nTai 31/03/2025 :\n.Tai 01/01/2025:\nGia tri.\nDu phong. :\nGia tri\nDw phong.\nVND\n:VND\n.VND.\nVND\nxay dung co bán d dang\n9,531,029,511\n:9,531,029,511\nDA Cóng ty TNHH Dng Tám Ha Binh\nChi phi cho DA trung tam nghien cúu mi\n7,000,000,000\n7,000,000,000\ntrong KCNC TP Thu.Dúc\n2,531,029,511\n2,531,029,511\nCong :\n9,531,029,511\n9,531,029,511\nHANGTONKHO\nTai 01/01/2025:\nTai 31/03/2025:\n: Gia góc\nVND\n: Du phng.\nVND..\nGia goe.\nVND:\nDu phng\nVND\n.- Hang dang di trn dung. :\n25,334,533,304\n- Nguyen liu, vat lieu\n60,780,590,892\n49,620,697,851\ndoanh d dang\n. Chi phi sanxuat kinh.\n18,024,202,716\n20,914,803,843\n- Thanh pham\n17,100,142,923 *\n12,127,000,018\n.-.Hang h6a\n21,219,889,136.\n::\n17;381,801;111\n::\n- Cong cu dung cu\n. Hang gur\n61,855,339\n41,006,838\nCong\n142,521,214,310\n100,085;309,661\n10 CHIPHITRATRUOC\nTai 01/01/2025\nTa 31/03/2025:\nVND\nVND\nNgan lan.\n-: Chi phi bao. hiém\n621,185,656\n523,893,633\n562,849,902\n: 39,512;550\n-- Cht phi thue van phng\n151;777,500\n- Chi phi khác\n97,292,023:\n371,559;852.\n- Tien thu dat\nDai han..\n6,214,328,838\n3,779,146,370\n6,267,240,785]\nTh thanh vien\n3,807,071,096:\n765,654,530 :\n752,032,850 :\n.Cong.\n...Chi hi ha .\n1,641,603,212\n:1,736,061:565:\n6,835,514,494.\n6,830,090,687\n8\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 729,
+        "number_count": 617,
+        "text_blocks": 132,
+        "table_count": 0,
+        "processing_time_sec": 17.736
+      },
+      "confidence": {
+        "average": 0.9296,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "::",
+          "confidence": 0.592,
+          "bbox": [
+            1592,
+            1525,
+            1622,
+            1562
+          ]
+        },
+        {
+          "text": "Cong",
+          "confidence": 0.583,
+          "bbox": [
+            126,
+            1616,
+            218,
+            1673
+          ]
+        }
+      ]
+    },
+    "page_12": {
+      "page_number": 12,
+      "queue_type": "VIP",
+      "priority": 483,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO YIET NAM\nTHUYETMINH BAO CAO TAI CHINH\n11. TAISAN CODINHHUUHINH\nNha cura.\nMay moc\nThiét bi.\nTong cong\nvat kién trüc\nthiét bi\n* van tai, truyen dan.\nPhurong tien\ndung c quan ly\nVND\n:VND\nVND..\nVnD.\nVND:\nNGUYEN GIA\n- Mua trongky\nTai 01/01/2025\n53,126,447,037\n37,304,579,412\n:3,776,250\n14,050,422,538\n1,244,683;559:\n105;726,132,546\nThanh Iy, nhuong ban.\n(1,391,203,000)\n(348,875,545))\n(1,740,078,545)\n3,776,250\n-: Giam khac.\nTai.31/03/2025\n53,126,447,037.\n35,917,152,662\n13,701,546,993\n1,244,683,559\n103,989,830,251\nHAO MON LUY KE\nTai 01/01/2025\n14,909,669,728 :\n26,954,935,084\n8,356;307,020\n450,708,104\n50,671,619,936\n- Khau hao trong ky\n- Thanh ly, nhuong ban\n408,655,818:\n.1,067,619,503:\n572;373,611:\n62;234,169\n2,110,883,101\nTai 31/03/2025\n15,318,325,546\n(1,387,426,750)\n(348,875,545)\n(1,736,302,295) :\n26,635,127,837\n8,579,805,086\n512,942;273\n51,046;200,742\nGIA TRI CON LAI\nTai 01/01/2025\n38,216,777,309:\n: 10;349,644,328\n5,694;115,518.\n793,975,455\n55,054,512,610\nTai.31/03/2025\n37,808,121,491\n9;282,024,825\n5,121,741,907\n731,741;286:\n52,943,629,509\nNguyén giá tai san có dinh hét káu hao nhung van cn sú dung la: 0 döng\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 354,
+        "number_count": 486,
+        "text_blocks": 75,
+        "table_count": 0,
+        "processing_time_sec": 18.732
+      },
+      "confidence": {
+        "average": 0.9534,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "VnD.",
+          "confidence": 0.623,
+          "bbox": [
+            1766,
+            433,
+            1840,
+            473
+          ]
+        }
+      ]
+    },
+    "page_13": {
+      "page_number": 13,
+      "queue_type": "VIP",
+      "priority": 201,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIETNAM\nLö I5-3a, 3b Khu C6ng Nghe Cao;P.TangNhon PhaA,Tp.ThuDurc,TP.HCM\nTHUYET MINH'BAO CAOTAI:CHINH\ni3_TAISAN CODINHVOHiNH\nQuyen sir dng\ndat\nPhan mem quan.ly\n.Tong cing\nNguyer gia.\n:VND\nVND.\nVND\nTai 01/01/2025:\n424,378,001\n0\n. - Mua.mi.trongnain\n: 2,050,000,000\n2,474;378,001\n-\"Thanh ly tai san có áinh\n::\nGia tri hao mn luy k\nTai 31/03/2025\n424,378,001\n2,050,000,000\n2,474,378,001\nTai 01/01/2025\n410,000,004\n410,000,004.\n--. Khau hao trong ky.\n102,500,001\n102,500,001 :\n- Thanh ly tal sän cö dinh\nGia tri cn lai\nTai 31/03/2025:\n512,500,005\n512,500,005:\n.Tai 01/01/2025\n424,378,001.\n:1,639,999,996:\n2;064,377,997:\nTal 31/03/2025\n424;378,001\n: 1,537,499,995:\n1,961,877,996.\n:\n10.\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 298,
+        "number_count": 226,
+        "text_blocks": 46,
+        "table_count": 0,
+        "processing_time_sec": 5.291
+      },
+      "confidence": {
+        "average": 0.9336,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIETNAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      }
+    },
+    "page_14": {
+      "page_number": 14,
+      "queue_type": "VIP",
+      "priority": 426,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM\nL 13 -3a, 3b Khu Cong Nghé Ca6,PTangNhonPhúA;TpThuc, TP:HCM\nTHUYET MINH BAO CAO TAI CHINH\n15: PHAITRA NGUOIBAN\nTai 01/01/2025\nGia tri :\nSó có kha nang.\n:Tai 31/03/2025:\nGia tri\nI S6 co kha nang.\ntra nr\ntra ng.\nVND\nVND.\n.VND\nVND:\na) Các khoan phai tra nguri bán ngán han\n83,300,923,288.\n83,300,923,288\n45,655;381,710\n45,655,381,710\n- PURETEIN AGRILLC\n8,202,382,020\n-Apeloa Hongkong Limited\n9;962,334,900\n8,202,382,020\n9,962,334,900\n2,496,462,500\n3,230,401,500\n2,496,462,500\n- BEIJING NEWLYVIT INTERNATIONAL CO.,LTD\n:\n3,230,401,500\n- C6ng ty TNHH LVA Viet Nam\n3,740,348,698\n3,740,348,698\n1,477,800,005\n1,477;800,005\n- Cong ty TNHH CJ Vina Agri - Chi nhanh Dng Nai\n3,846,196,060\n3,846,196,060:\n5,634,053,930\n5,634,053,930\n-- PROSPERITY PHARMCHEM CO.; LIMITED\n3,247,532,100\n3,247,532,100\n2,135,991,480:\n2,135,991;480\n- Vandelay Worldwide LLC\n16,127;289;123\n16,127,289,123\n16,127,289;123 :\n16,127,289,123:\n--'Shandong Guobang Pharmaceutical Co.; Ld.\n:7,637,193;900:\n7,637,193,900:\n2;175,096,000\n2,175,096,000\n- BRENNTAG PTE. LTD:\n8,176;320,000\n8,176;320,000\n:4,106,720,000\n4,106,720,000\n- Others.\n22,361,326,487\n22,361;326,487\n8,271,567,172\n8,271,567,172\nb) Cac khoan phai tra ngtri bán dai han\nc) sö ng qua han chua thanh toan\nd) Phai tra nguri bán la các bên lien quan\n:1:\nCTCBIO INC:\n:\n10\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 537,
+        "number_count": 438,
+        "text_blocks": 75,
+        "table_count": 0,
+        "processing_time_sec": 12.252
+      },
+      "confidence": {
+        "average": 0.9476,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": ":",
+          "confidence": 0.407,
+          "bbox": [
+            1455,
+            724,
+            1476,
+            748
+          ]
+        }
+      ]
+    },
+    "page_15": {
+      "page_number": 15,
+      "queue_type": "VIP",
+      "priority": 403,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO VIET NAM:\nL6 I5 -3a, 3b: Khu Cong Nghδ Cao,P.TangNhon Phu A,Tp Thu Dúc;TP.HCM\nTHUYETMINH BAO CAOTAI CHINH .\n16 THUI VA CACKHOAN PHAINOP NHANUOC:\nTai 01/01/2025\nsó phai np\nSó da thuc nop.\nVND.\ntrong ky :\ntrong ky\nTai 31/03/2025\na) Nop thué\n.VND.\n: VND\nYND\n- Thué nhap khau\n38,088,085\n161,008,000\n199,096,085:\n- Thué GTGT nhap khau\n- Thué gia tr gia tang dau ra.\n-- Thué thu nhap doanh nghiép.\n1,988,684,917\n453,548,366\n4,670,592,922\n1,094;716,493:\n1,988,684,874\n4;217,775,642\n1,094,716,536.\n906,365,646\n. - Thuethu nhap ca nhan -\n651,344,107\n2,180;794,276:\n1;780,500,675\n1,051,637,708.\n- Thuékhac.\n:Cang\n806,415\n145,722,561\n136,008,082\n10,520,894\n3;132,471,890\n8,252,834,252.\n:8,122,969,273\n3,262,336,869\nb) Tra truoc\nThué giá tr gia tang dau ra\n.-. Thué xuat, nhap kháu\n. Thué GTGT hang nhap kháu\n:.96,349,599\n1,713,853,653\n--Thué thu nhap ca nhan.\n1,490,005,403\n320,197;849\n. Thué khac\nCong.\n96,349,599\n1,490,005,403\n1,713,853,653\n:320,197,849\n18 PHAITRAKHAC\nTai 01/01/2025\nTal 31/03/2025 :.\na) Ngan han .\nVND:\nVND:\n-- Bao hiem xa hoi\n- Bao hiém y te\n664,165;693\n132,865;358\n- Bao him thát nghiép\n::\n47,955;270\n- Hoa hng bán hang\n5,611,587;138\n3,650,601,333\n- Các khoan phai tra, phai nöp khác\n- Phai trac túc\n12;177,860,000\n12,177;860,000\nCong.\n22,976,327,766\n5,186,880,628\n17,916,075,675\n1,242,628,021\nb) Dai han:\nc) Só n qua lan chua thanh toán\n1i\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 551,
+        "number_count": 440,
+        "text_blocks": 88,
+        "table_count": 0,
+        "processing_time_sec": 11.661
+      },
+      "confidence": {
+        "average": 0.9294,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO VIET NAM:",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "::",
+          "confidence": 0.67,
+          "bbox": [
+            1285,
+            1301,
+            1307,
+            1328
+          ]
+        },
+        {
+          "text": "1i",
+          "confidence": 0.616,
+          "bbox": [
+            1568,
+            2234,
+            1617,
+            2281
+          ]
+        }
+      ]
+    },
+    "page_16": {
+      "page_number": 16,
+      "queue_type": "VIP",
+      "priority": 406,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO YIET NAM :\nLö I5 3a, 3b Khu Cong Nghé Cao, P.TangNhon Phu A, Tp Thu Dúcs TP.HCM\n:THUYET MINH BAO CAQ TAI CHINH :\n19\nVAY VANO THUE TAI CHINH:\n: Ta 01/01/2025\nTrongky.\n:Tai 31/03/2025\nGia tri.\n:Só co kha nang tra\n. no\nTang\nGiam:\nGia tri\nSó có kha nang tra.\nng:\nVay va ng thue tai chinh ngan han.\nVND\nYND.\nVND\nVND.\nVND:\nVND:\n- Ngan hang Shinhanvina.\n31,639,427,267\n31,639,427;267\n:31,639,427,267\n-- Ngan hang TMCP Ngoai Thuong\n24,552,933,507\n24,552,933,507\n24,552,933,507\nViet Nam:\n7,086,493,760\n7,086,493,760:\n7,086,493,760*\nYay va no thue tai chinh dai han\n- Ngan hang TMCP Ngoai Thuong\n- Cng ty INHH Thué Tai Chinh\nViet Nam.\nQu6c Té\n:\nCong\n31,639,427,267\n31,639,427,267\n:31,639,427;267:\n.20: VONCHUSOHUU\n20.1 - BANG DOI CHIEU BIEN DQNG CUA VON CH SO HUU\nLoi nhuan sau thué\nCong\nhuu\nphan\nchua phan phói\nTai: 01/01/2024\nVND\n:VND :\n.VND\n:VND :\n--Loi nhuan trong ky.\n120,000,000,000:\n2;768,022\n473,706,986,208:\n7,508,484,294:\n593,709,754;230\n--.Chia tuc nam 2023\n(18;000,000,000)\n7,508,484;294\nTal 31/03/2024\n120,000,000,000:\n2,768,022\n463;215;470,502:\n583,218,238,524\n(18,000,000,000)\nTal 01/01/2025:\n- Loi nhuan trongky.\n120,000,000,000:\n2,768,022\n492;710,479,850\n612;713,247;872:\n- Chia c túc nam 2024.\n:\n8,051,005,572].\n8,051,005,572:\nTai 31/03/2025\n120,000,000,000:\n2;768,022\n500,761;485;422:\n620,764,253,444 :\n: (0):\n12\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 535,
+        "number_count": 433,
+        "text_blocks": 89,
+        "table_count": 0,
+        "processing_time_sec": 19.035
+      },
+      "confidence": {
+        "average": 0.9259,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM :",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "ng:",
+          "confidence": 0.602,
+          "bbox": [
+            2181,
+            399,
+            2239,
+            438
+          ]
+        },
+        {
+          "text": "Qu6c Té",
+          "confidence": 0.684,
+          "bbox": [
+            144,
+            780,
+            266,
+            825
+          ]
+        }
+      ]
+    },
+    "page_17": {
+      "page_number": 17,
+      "queue_type": "VIP",
+      "priority": 272,
+      "content": "\n[TEXT CONTENT]\nCONG TY CO PHAN CTCBIO.VIET NAM\nTHUYET MINHBAO CAOTAICHINH\nL I5 -3a, 3b Khu Cong Nghé Cao,P.TangNhon PhuA,Tp ThuDúc, TP.HCM:\n20\nVÖN CH SH (Tiép theo)\n20.2:\nCHITIET VONDAUTU CUA CHU SOHUU\nTai 01/01/2025\nTai 31/03/2025\n:VND\nTy Ie\nVND\nTy Ie\n1\nJuing In Seo.\n29,610,300;000:\n24.68%\n29,610,300,000\n24.68%:\n2\nCty CTCBIO INC :\n16,682,000,000\n13.90%.\n16,682,000,000\n:13.90%\n3\nKim Yeh Ihn.\n6,672,800,000\n5.56%\n6,672;800,000:\n5.56%\n4\nKim Young Ihn .\n6,672,800,000\n5.56%\n6,672,800,000\n5.56%\nKim Young Bae.\n6,506,900,000\n5.42%\n6,506,900,000:\n5.42%\nMa Sang Don\n5,004,600,000\n4.17%\n5,004,600,000\n4.17%\nChung Hong Kyoon.\n1,413,670,000\n1.18%.\n1,413,670,000\n1.18%\nCong\nCac c dng khá\n47,436,930,000\n39.53% :\n47,436,930,000\n39.53%\n100%\n120,000,000,000\n: 100%\n120,000,000,000\n:13:\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 266,
+        "number_count": 280,
+        "text_blocks": 63,
+        "table_count": 0,
+        "processing_time_sec": 7.466
+      },
+      "confidence": {
+        "average": 0.9556,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO.VIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "31/03/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "Ty Ie",
+          "confidence": 0.648,
+          "bbox": [
+            1460,
+            478,
+            1548,
+            524
+          ]
+        }
+      ]
+    },
+    "page_18": {
+      "page_number": 18,
+      "queue_type": "VIP",
+      "priority": 427,
+      "content": "\n[TEXT CONTENT]\nL I5-3a, 3b hu Cong Nghe Cao, P.TangNhon PhuA,Tp ThuDifc TP.HCM.\nCONG TY CO PHAN CTCBIO YIET NAM\nTHUYET MINIBAO CAO TAL CHINI\n20\nVON CHU SO HUU (TIEp theo)\n20.3 : CAC GIAO DICH YE VON YOI CAC CH SHU VAPHAN PHOI C THC,CHIALQI NHUAN\nTu 01/01/2025.\nTir: 01/01/2024:\ndén 31/03/2025\naér 31/03/2024\nVón áautu cua chu s húu\nYND.\nVND\n-.Vön göp dau ky\n120,000,00,000\n120,000,000,000:\n- Vón góp tang trong ky\n-- Vón góp gian trong ky\n5é tre loi nhuan da chia\nVón góp cuóiky\n120,000,00,000\n120,000,000,000:\n18,000,000,000\n20.4\nCO PHIEU\ndén 31/03/2025:\nTir 01/01/2025 :\ndén 31/03/2024\nTir 01/01/2024\nC6 phiéri\nc phiéu\n- só lugng c phiéu duaphép ban hanh\n12,000,000 :\n12,000;000\n-- só luongcó phié da dugc phát hanh vá góp vón day dd\n12,000,000:\n12,000,000\nCó phiéu thung\n- só luong c phiéu dang luu hanh\n12,000,000\n12;000,000\n- M&nh gia c phiéu (VND/C6 phiéu)\n12,000,000\n10,000:\n12,000,000\n:10,000\nCAC KHOAN MUC INGOAI BANG CAN DOIKE TOAN\n21\nNgoai te cac loai\n:Tai 01/01/2025\nTai 31/03/2025\nVND :\nNguyên té\nVND:\nNguyn.t\n--6 1a My (Tien mat)\n-Euro(EUR)\n839,850,724\n.33,235.09\n612,009,572:\n24,235.09.\nDOANH THU BAN HANG VA CUNG: CAP DICH Y\n22\n:Ti: 01/01/2025\nTir 01/01/2024\ndén 31/03/2025\ntér 31/03/2024\nVND\nVND:\na) Doanh thu .\n- Doanh thu ban hang hóa va cung cap dich yu\n170,029,230,328:\n160,467,532,679:\n- Doanh thu ban thanh pham .\n:123,542,159,638:\n:46,487,070,690\n104,218,683,322\n56,248,849,357\nb) Doanh thu vói cac ben lien quan\n- C6ng.ty CTCBIO INC (Han Qu6c)\n23.\nCAC KHOAN GIAM TRU DOANH THU\n:Ter 01/01/2025:\nTi 01/01/2024\ndén 31/03/2025 :\n.VND :\ndén 31/03/2024\nVND\n- Chiét kháu thuong mai\n302,114,015\n765,762,743\n- Chtét kháu ban hang\n83,575,000\n-- Hang ban bi tra lai\n16,336,134 :\n:10,000,000\n.C$ng\n318,450,149\n859,337,743:\n14\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 789,
+        "number_count": 463,
+        "text_blocks": 100,
+        "table_count": 0,
+        "processing_time_sec": 14.242
+      },
+      "confidence": {
+        "average": 0.9299,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "01/01/2024"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "C6 phiéri",
+          "confidence": 0.663,
+          "bbox": [
+            1181,
+            881,
+            1317,
+            934
+          ]
+        },
+        {
+          "text": ".C$ng",
+          "confidence": 0.678,
+          "bbox": [
+            164,
+            2050,
+            267,
+            2109
+          ]
+        }
+      ]
+    },
+    "page_19": {
+      "page_number": 19,
+      "queue_type": "VIP",
+      "priority": 588,
+      "content": "\n[TEXT CONTENT]\nL I5 -3a, 3b Khu Cong Nghe Cao,P.TangNhon PhaA,Tp Thu Dúc , TP.HCM\nCONG TY CO PHAN CTCBIO YIET NAM\nTHUYET MINH BAO CAO TAI CHINH\n24:\n: GIA VONHANGBAN.\nTir 01/01/2025\nTur 01/01/2024.\ndén.31/03/2025\nVND.\ndén 31/03/2024.\n-.Gia vön hang hóa.\n43,992,034,214\n51,146,860,917\nYND:\n- Gia yön thanli pham\n92,271,766,249\n75,673,249,014\nCong\n136;263,800,463\n126,820,109:931\n25.: DOANHTHU.HOAT DQNG TAI CHINH\nTu 01/01/2025\nTu 01/01/2024\ndén 31/03/2025\nVND\ndén 31/03/2024:\nYND.\n--Lal tien guri, tien cho vay\n1,933,024,462\n2;139,262,492\n- Lai chenl lech ty giá phat sinh trong ky\n330,029,644\n395,874,121\n- Chiét kháu thanh toán\n.4;113,609\n6,494,662:\n: Cong :\n:2;267,167,715\n2;541,631;275\n:26: CHI PHITAI CHINH:\n:Tur 01/01/2025: :\nTir 01/01/2024\ndén :31/03/2025:\ndén 31/03/2024:\nVND\nVND:\n+ Chi phi lai yay.\n210,254,930 :\n57,585,411\n+-Lat thue tat chinh.\n44,635,709\n446;184,244:\nL chenh lech ty giá phát sinh trong ky\n-- Chiét khau thanh toan\n146,423,311\n:143.494,682:\nCong:\n401,313,950\n647;264,337\n: CHI PHI BAN HANG VA CHI PHI QUAN LY DOANH NGHIEP\nTir 01/01/2025:\nTi 01/01/2024:\ndén 31/03/2025\nVND:\ndén 31/03/2024\nVND\n20,464;166,037\n21,125,076,134\na) Cht pht ban hang.\n- Chi phi nhan vien.\n6,307,097,557\n6,137,261,688 :\n- Chi phi vat lieu, bao bi\n10;856,000\n: 1,279,529,302\n- Chi phf dung cú, d dang\n22,923,106:\n56,242,096:\n- Chi phí dich yu mua ngoai\n- Chi phi kháu hao TSGE\n:12,120;411,298\n305,071;577\n11;425,734;223\n236,848,779\n- Chi phi bang tien khác.\n:1,697:806,499:\n1,989,460,046\nb) Cht pht qulin lý doanh nghiep\n5,823;239,319\n5;230,511,505\nChi phf nhan vien quan ly\n- Cht pht vat liu quan ly --Van phng phám\n3,452,963,658:\n19,228;943\n3,197,456,533\n21,363;,108\n- Chi pht d dúng van phng\n: 6;169,393\n50,587,171\n- Chi pht kháu ha TSCE\n335,614,728 :\n335,614,728::\n- Thué, phi va 18 phi\n19,467;030\n12,000,000:\n- Chi phf dich vu mua ngoat\n.1,293,641,580\n696,153,987\n827,926,895\n785,563,070\n- Chi pht bang tien khac\nc) Cac khoán ght gtam chi pht bán hang va cht pht guan ly doanh nghiép.\n15:\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 790,
+        "number_count": 629,
+        "text_blocks": 113,
+        "table_count": 0,
+        "processing_time_sec": 17.235
+      },
+      "confidence": {
+        "average": 0.9417,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "01/01/2025",
+          "previous": "01/01/2024"
+        },
+        "currency": "VND",
+        "sections": []
+      }
+    },
+    "page_20": {
+      "page_number": 20,
+      "queue_type": "VIP",
+      "priority": 351,
+      "content": "\n[TEXT CONTENT]\nL I5-3a, 3b. Khu C6ng Nghê Cao,PTangNhonPhüA,Tp Thu Duc ,TP.HCM\nCONG TY CO PHAN CTCBIO YIET NAM\nTHUYETMINH BAO CAO:TAI CHINH\n28\nTHU NHAP KHACE:\ndén 31/03/2025:\nTur 01/01/2025:\ndén:31/03/2024\nTi 01/01/2024\nVND:\nVND.\n: Thanh ly TSC\nCong.\n: Thu nhap khác :\n9,849,462:\n91,119\n9,849,462:\n:91,119\n29.\nCHI PHI KHAC.\nTH 01/01/2024\ndén 31/03/2025:\nTur 01/01/2025\ndén 31/03/2024.\nVND\nVND\n--Thé hi vien, chi phi khac\n:14,546,468\n-. Chi. phi khac\n25,009,054\n421,408,886\nCong\n39,555,522:\n421,408,886\n30.\nCHI PHI THUE THU NHAP DOANH NGHIEP HIEN HANH\ndén 31/03/2025:\nTir 01/01/2025.\ndén 31/03/2024:\nTu 01/01/2024\nVND :\nVND\nTöng thu nhap chiu thué\n8,476;763,307:\n7;905,546,537\nChi phi thué thu nhap doanh nghiep\n1,071,435,109]\n397,062,243\n397,062;243]\nTng cli phi thué thu nháp doanh nghiep\n1,071,435,109:\n:31 LAICO BANTREN COPHIEU\nTir 01/01/2025\nTir 01/01/2024\ndén 31/03/2025:\ngtdén 31/03/2024.\n: Lgi nhuan sau thué TNDN (VND)\n7,405,328,198:\n7,508,484,294.\n- só diu chinh tang, giam\n- sö trich quy khen thuöng, phúc Igi (VND).\nLN phan b cho c phiéu ph thng (VND)\n.7,405,328,198\n7,508,484,294\nsó cö phiéu luu,hanh binh quan (c phiéu\n12,000,000\n12,000,000\nLai co ban.tren c phiéu (VND/co pliéu)\n: 617\n626\nTng thu nhap ca Ban Tng giám dó\ndén 31/03/2025\nTer 01/01/2025\nTr 01/01/2024 :\nden 31/03/2024.\n- Lurong vá phu cap\n1,689,756,000\n1,625;631,000\nNgui lap\nKe toan truong\nBUNTOREG\nCTCBI9S\nCO PHAN\nVIET NAM/\nNg Thi Truc Lan\n16\n[/TEXT CONTENT]",
+      "statistics": {
+        "char_count": 652,
+        "number_count": 381,
+        "text_blocks": 86,
+        "table_count": 0,
+        "processing_time_sec": 15.188
+      },
+      "confidence": {
+        "average": 0.937,
+        "level": "HIGH",
+        "needs_review": false
+      },
+      "financial": {
+        "company_name": "CÔNG TY CO PHAN CTCBIO YIET NAM",
+        "report_type": "BALANCE_SHEET",
+        "dates": {
+          "current": "31/03/2025",
+          "previous": "01/01/2025"
+        },
+        "currency": "VND",
+        "sections": []
+      },
+      "low_confidence_blocks": [
+        {
+          "text": "BUNTOREG",
+          "confidence": 0.585,
+          "bbox": [
+            1135,
+            1954,
+            1297,
+            2008
+          ]
+        }
+      ]
+    }
+  },
+  "summary": {
+    "confidence_distribution": {
+      "high": 20,
+      "medium": 0,
+      "low": 0,
+      "very_low": 0
+    },
+    "needs_review_pages": 0,
+    "total_tables_detected": 0,
+    "total_processing_time_sec": 185.65,
+    "avg_time_per_page_sec": 9.283
+  }
+}

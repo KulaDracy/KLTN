@@ -1,0 +1,187 @@
+{
+  "module": "VLMs_detect",
+  "description": "High confidence pages (≥0.9)",
+  "total_pages": 20,
+  "pages": [
+    {
+      "page_number": 1,
+      "confidence": 0.937,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 438,
+      "char_count": 866,
+      "number_count": 508
+    },
+    {
+      "page_number": 2,
+      "confidence": 0.92,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 481,
+      "char_count": 884,
+      "number_count": 535
+    },
+    {
+      "page_number": 3,
+      "confidence": 0.913,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 342,
+      "char_count": 751,
+      "number_count": 360
+    },
+    {
+      "page_number": 4,
+      "confidence": 0.921,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 306,
+      "char_count": 678,
+      "number_count": 322
+    },
+    {
+      "page_number": 5,
+      "confidence": 0.934,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 489,
+      "char_count": 788,
+      "number_count": 532
+    },
+    {
+      "page_number": 6,
+      "confidence": 0.929,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 394,
+      "char_count": 1060,
+      "number_count": 427
+    },
+    {
+      "page_number": 7,
+      "confidence": 0.933,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 194,
+      "char_count": 642,
+      "number_count": 228
+    },
+    {
+      "page_number": 8,
+      "confidence": 0.932,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 40,
+      "char_count": 2155,
+      "number_count": 117
+    },
+    {
+      "page_number": 9,
+      "confidence": 0.932,
+      "confidence_level": "HIGH",
+      "queue_type": "NORMAL",
+      "priority": 0,
+      "char_count": 1853,
+      "number_count": 60
+    },
+    {
+      "page_number": 10,
+      "confidence": 0.935,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 467,
+      "char_count": 966,
+      "number_count": 550
+    },
+    {
+      "page_number": 11,
+      "confidence": 0.93,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 540,
+      "char_count": 707,
+      "number_count": 617
+    },
+    {
+      "page_number": 12,
+      "confidence": 0.953,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 483,
+      "char_count": 332,
+      "number_count": 486
+    },
+    {
+      "page_number": 13,
+      "confidence": 0.934,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 201,
+      "char_count": 276,
+      "number_count": 226
+    },
+    {
+      "page_number": 14,
+      "confidence": 0.948,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 426,
+      "char_count": 515,
+      "number_count": 438
+    },
+    {
+      "page_number": 15,
+      "confidence": 0.929,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 403,
+      "char_count": 529,
+      "number_count": 440
+    },
+    {
+      "page_number": 16,
+      "confidence": 0.926,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 406,
+      "char_count": 513,
+      "number_count": 433
+    },
+    {
+      "page_number": 17,
+      "confidence": 0.956,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 272,
+      "char_count": 244,
+      "number_count": 280
+    },
+    {
+      "page_number": 18,
+      "confidence": 0.93,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 427,
+      "char_count": 767,
+      "number_count": 463
+    },
+    {
+      "page_number": 19,
+      "confidence": 0.942,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 588,
+      "char_count": 768,
+      "number_count": 629
+    },
+    {
+      "page_number": 20,
+      "confidence": 0.937,
+      "confidence_level": "HIGH",
+      "queue_type": "VIP",
+      "priority": 351,
+      "char_count": 630,
+      "number_count": 381
+    }
+  ]
+}

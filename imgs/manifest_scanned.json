@@ -1,0 +1,125 @@
+{
+  "file": "test2.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_001.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 2,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_002.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 3,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_003.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 4,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_004.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 5,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_005.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 6,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_006.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 7,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_007.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 8,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_008.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 9,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_009.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 10,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_010.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 11,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_011.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 12,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_012.png",
+      "rotation": 180,
+      "is_table": false
+    },
+    {
+      "page_number": 13,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_013.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 14,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_014.png",
+      "rotation": 180,
+      "is_table": false
+    },
+    {
+      "page_number": 15,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_015.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 16,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_016.png",
+      "rotation": 180,
+      "is_table": false
+    },
+    {
+      "page_number": 17,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_017.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 18,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_018.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 19,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_019.png",
+      "rotation": 90,
+      "is_table": false
+    },
+    {
+      "page_number": 20,
+      "file": "C:\\Users\\lengu\\Desktop\\KLTN\\temp\\step3_scan\\page_020.png",
+      "rotation": 90,
+      "is_table": false
+    }
+  ]
+}

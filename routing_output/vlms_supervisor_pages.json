@@ -1,0 +1,6 @@
+{
+  "module": "VLMs_supervisor",
+  "description": "Low confidence pages (<0.9) - Needs review",
+  "total_pages": 0,
+  "pages": []
+}

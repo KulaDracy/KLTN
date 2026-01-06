@@ -1,0 +1,321 @@
+#!/usr/bin/env python3
+import sys
+import json
+from pathlib import Path
+import cv2
+import numpy as np
+from PIL import Image
+from paddleocr import PaddleOCR
+
+# Initialize OCR
+# Tăng lang="vi"
+try:
+    ocr = PaddleOCR(det=True, rec=True, use_textline_orientation=True, lang="vi", show_log=False)
+except:
+    ocr = PaddleOCR(det=True, rec=True, use_angle_cls=False, lang="vi", show_log=False)
+
+
+# ============================================================
+# 1) TABLE DETECTOR (Cải tiến ngưỡng)
+# ============================================================
+
+def detect_table(img):
+    """Detect bảng bằng pattern nhiều hàng + nhiều cột"""
+    try:
+        # Sử dụng OCR detection
+        res = ocr.ocr(img, det=True, rec=False, cls=False)
+        boxes = res[0] if res else []
+    except:
+        return False
+    
+    # Yêu cầu tối thiểu 15 cells để đảm bảo là bảng thật
+    if not boxes or len(boxes) < 15:  
+        return False
+    
+    lefts, centers = [], []
+    for b in boxes:
+        pts = np.array(b, float)
+        xs = pts[:, 0]
+        ys = pts[:, 1]
+        lefts.append(xs.min())
+        centers.append((ys.min() + ys.max()) / 2)
+    
+    # Detect columns (Ngưỡng 25)
+    lefts_sorted = np.sort(lefts)
+    col = 1
+    for i in range(1, len(lefts_sorted)):
+        if abs(lefts_sorted[i] - lefts_sorted[i - 1]) > 25:
+            col += 1
+    
+    # Detect rows (Ngưỡng 18)
+    centers_sorted = np.sort(centers)
+    row = 1
+    for i in range(1, len(centers_sorted)):
+        if abs(centers_sorted[i] - centers_sorted[i - 1]) > 18:
+            row += 1
+    
+    # Cải tiến: Yêu cầu col >= 3 VÀ row >= 5 (để bắt được bảng báo cáo tài chính)
+    is_table = col >= 3 and row >= 5 
+    return is_table
+
+
+# ============================================================
+# 2) IMPROVED OCR ORIENTATION SCORE (Tối ưu hóa Trọng số & Cắt ảnh)
+# ============================================================
+
+def score_orientation_improved(img):
+    """
+    Score orientation với multiple metrics:
+    1. Text length (số ký tự) - Tăng trọng số
+    2. Confidence (độ tin cậy OCR)
+    3. Horizontal ratio (tỉ lệ text boxes nằm ngang) - Tăng trọng số
+    4. Box count (số lượng text boxes)
+    """
+    angles = [0, 90, 180, 270]
+    scores = {}
+    details = {}
+    
+    # Crop để bỏ viền (Tăng từ 2% lên 5% để loại bỏ tiêu đề và chú thích)
+    h_orig, w_orig = img.shape[:2]
+    h_start = int(h_orig * 0.01) 
+    h_end = int(h_orig * 0.99)
+    w_start = int(w_orig * 0.01)
+    w_end = int(w_orig * 0.99)
+    img_cropped = img[h_start:h_end, w_start:w_end]
+    
+    # Resize
+    h, w = img_cropped.shape[:2]
+    scale = 1200 / max(h, w)
+    small = cv2.resize(img_cropped, None, fx=scale, fy=scale, 
+                       interpolation=cv2.INTER_LINEAR)
+    
+    for angle in angles:
+        # Rotate
+        if angle == 0:
+            rot = small
+        elif angle == 90:
+            rot = cv2.rotate(small, cv2.ROTATE_90_CLOCKWISE)
+        elif angle == 180:
+            rot = cv2.rotate(small, cv2.ROTATE_180)
+        else:
+            rot = cv2.rotate(small, cv2.ROTATE_90_COUNTERCLOCKWISE)
+        
+        try:
+            res = ocr.ocr(rot, det=True, rec=True, cls=False)
+            
+            if not res or not res[0]:
+                scores[angle] = 0
+                details[angle] = {'text_len': 0, 'confidence': 0, 'horizontal_ratio': 0, 'box_count': 0, 'score': 0}
+                continue
+            
+            boxes = res[0]
+            
+            # Metric 1: Text length
+            text_len = sum(len(x[1][0]) for x in boxes)
+            
+            # Metric 2: Average confidence
+            confidences = [x[1][1] for x in boxes]
+            avg_confidence = np.mean(confidences) if confidences else 0
+            
+            # Metric 3: Horizontal ratio (boxes with W > H)
+            horizontal_count = 0
+            for box in boxes:
+                bbox = box[0]
+                x_coords = [p[0] for p in bbox]
+                y_coords = [p[1] for p in bbox]
+                box_w = max(x_coords) - min(x_coords)
+                box_h = max(y_coords) - min(y_coords)
+                
+                # Box nằm ngang nếu W > H * 1.5
+                if box_w > box_h * 1.5:
+                    horizontal_count += 1
+            
+            horizontal_ratio = horizontal_count / len(boxes) if boxes else 0
+            
+            # Metric 4: Box count
+            box_count = len(boxes)
+            
+            # Combined score (Tuning: Ưu tiên Text length và Horizontal ratio)
+            combined_score = (
+                text_len * 0.40 +                      # Text length (Tăng trọng số)
+                avg_confidence * 1000 * 0.20 +         # Confidence
+                horizontal_ratio * 1000 * 0.35 +       # Horizontal ratio (Tăng trọng số)
+                box_count * 5 * 0.05                   # Box count
+            )
+            
+            scores[angle] = combined_score
+            details[angle] = {
+                'text_len': text_len,
+                'confidence': round(avg_confidence, 3),
+                'horizontal_ratio': round(horizontal_ratio, 3),
+                'box_count': box_count,
+                'score': round(combined_score, 1)
+            }
+            
+        except Exception as e:
+            # print(f"    Error at {angle}°: {e}")
+            scores[angle] = 0
+            details[angle] = {'text_len': 0, 'confidence': 0, 'horizontal_ratio': 0, 'box_count': 0, 'score': 0, 'error': str(e)}
+    
+    # Print detailed scores
+    print("  OCR Detailed Scores:")
+    for angle in angles:
+        d = details[angle]
+        print(f"    {angle:3d}°: text={d['text_len']:4d}, conf={d['confidence']:.2f}, horiz={d['horizontal_ratio']:.2f}, boxes={d['box_count']:3d}, score={d.get('score', 0):.1f}")
+    
+    # Find best and second best
+    sorted_scores = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    best_angle, best_score = sorted_scores[0]
+    second_angle, second_score = sorted_scores[1]
+    
+    total_text = sum(details[a]['text_len'] for a in angles)
+    
+    print(f"  → Best: {best_angle}° (score: {best_score:.1f})")
+    print(f"  → 2nd: {second_angle}° (score: {second_score:.1f})")
+    print(f"  → Margin: {best_score - second_score:.1f}")
+    
+    return best_angle, best_score, second_score, total_text, details
+
+
+# ============================================================
+# 3) IMPROVED DECISION ENGINE (FIXED TABLE & LOW CONFIDENCE LOGIC)
+# ============================================================
+
+def decide_rotation_improved(img, is_table):
+    
+    # 1) Nếu là bảng → kiểm tra orientation nhưng ưu tiên 270° (Bảng ngang)
+    if is_table:
+        print("  TABLE DETECTED → Checking orientation carefully...")
+        best_angle, best_score, second_score, total_text, details = score_orientation_improved(img)
+        
+        margin = best_score - second_score
+        
+        # Nếu góc tốt nhất là 270° và có độ tự tin hợp lý (giảm ngưỡng tự tin cho bảng)
+        if best_angle == 270 and margin > 50:
+            print(f"  → TABLE: 270° is CONFIDENT (margin {margin:.1f}) → ROTATE 270°")
+            return 270
+            
+        # Xử lý trường hợp xung đột (0° và 270° gần bằng nhau)
+        # Nếu điểm 270° vẫn cao hơn 0° một chút, ưu tiên xoay bảng
+        elif details[270]['score'] > details[0]['score'] and margin < 100:
+             print(f"  → TABLE: 270° Score > 0° Score (Xung đột) → ROTATE 270°")
+             return 270
+            
+        # Nếu góc 0° là tốt nhất và margin không lớn, hoặc margin > 100 nhưng 0° là tốt nhất, giữ nguyên
+        else:
+            print(f"  → TABLE: Low confidence or 0° best → NO ROTATION")
+            return 0
+    
+    # 2) Nếu không phải bảng → quét OCR orientation
+    best_angle, best_score, second_score, total_text, details = score_orientation_improved(img)
+    
+    margin = best_score - second_score
+    
+    # 3) Nếu OCR tự tin → xoay theo OCR
+    # Ngưỡng tự tin 50 (cho văn bản thường)
+    if margin > 50:
+        print(f"  → OCR CONFIDENT (margin: {margin:.1f}) → ROTATE {best_angle}°")
+        return best_angle
+    
+    # 4) Nếu ít text → fallback geometry
+    if total_text < 200:
+        print(f"  → LOW TEXT ({total_text} chars) & No margin → fallback to geometry")
+        h, w = img.shape[:2]
+        
+        # Check aspect ratio
+        if w > h * 1.3:  # Ảnh ngang rõ ràng
+            print("  → Image is wide (landscape) → ROTATE 90°")
+            return 90
+        else:
+            print("  → Image is portrait or square → NO ROTATION")
+            return 0
+    
+    # 5) Nếu OCR không tự tin nhưng có text nhiều → giữ nguyên
+    # Bao gồm cả trường hợp 0° và 270° đối xứng (như page_014.jpg)
+    print(f"  → OCR LOW CONFIDENCE (margin: {margin:.1f}) → NO ROTATION")
+    return 0
+
+
+# ============================================================
+# 4) MAIN
+# ============================================================
+
+def scan(manifest_file, out_dir):
+    """Process images from manifest"""
+    
+    manifest = json.load(open(manifest_file, "r", encoding="utf8"))
+    out = Path(out_dir)
+    out.mkdir(parents=True, exist_ok=True)
+    
+    new_manifest = {
+        "file": manifest["file"],
+        "pages": []
+    }
+    
+    for page in manifest["pages"]:
+        num = page["page_number"]
+        img_path = Path(page["file"])
+        
+        print(f"\n{'='*70}")
+        print(f"PAGE {num}")
+        print('='*70)
+        
+        img = cv2.imread(str(img_path))
+        
+        if img is None:
+            print("  ❌ ERROR loading image")
+            continue
+        
+        # Detect table
+        print("  Detecting table...", end=" ")
+        is_table = detect_table(img)
+        print(f"{'✓ YES' if is_table else '✗ NO'}")
+        
+        # Decide rotation
+        angle = decide_rotation_improved(img, is_table)
+        
+        # Apply rotation
+        if angle == 90:
+            img = cv2.rotate(img, cv2.ROTATE_90_CLOCKWISE)
+        elif angle == 180:
+            img = cv2.rotate(img, cv2.ROTATE_180)
+        elif angle == 270:
+            img = cv2.rotate(img, cv2.ROTATE_90_COUNTERCLOCKWISE)
+        
+        print(f"  → FINAL ROTATION: {angle}°")
+        
+        # Save
+        out_file = out / f"page_{num:03d}.png"
+        Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB)).save(out_file)
+        
+        new_manifest["pages"].append({
+            "page_number": num,
+            "file": str(out_file.resolve()),
+            "rotation": angle,
+            "is_table": is_table
+        })
+        
+        print(f"  ✓ Saved: {out_file.name}")
+    
+    # Save manifest
+    manifest_out = out / "manifest_scanned.json"
+    json.dump(new_manifest, open(manifest_out, "w", encoding="utf8"),
+              indent=2, ensure_ascii=False)
+    
+    print("\n" + "="*70)
+    print("✨ DONE!")
+    print("="*70)
+    print(f"✓ Processed {len(new_manifest['pages'])} pages")
+    print(f"✓ Manifest saved: {manifest_out}")
+
+
+# ============================================================
+# CLI
+# ============================================================
+
+if __name__ == "__main__":
+    if len(sys.argv) < 3:
+        print("Usage: python scan_improved.py manifest_fixed.json output/")
+        sys.exit(1)
+    
+    scan(sys.argv[1], sys.argv[2])
